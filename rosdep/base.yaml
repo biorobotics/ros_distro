@@ -1,0 +1,4 @@
+example-ros-dependency-package-name:
+  ubuntu:
+    apt: [apt-package-name-for-example]
+    pip: [pip-package-name-for-example]
